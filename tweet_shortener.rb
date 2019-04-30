@@ -36,7 +36,6 @@ def selective_tweet_shortener
     return tweet
   end 
 end 
-end 
 
 def shortened_tweet_truncator
 end 
